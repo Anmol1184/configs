@@ -1,0 +1,337 @@
+
+Feb 26 21:58 : player: played "01. Teri Jhuki Nazar.mp3"
+Feb 27 13:29 : player: played "01. Teri Jhuki Nazar.mp3"
+Feb 27 15:34 : exception: Failed to decode /home/anmol/Music/01. Teri Jhuki Nazar.mp3; Failed to open '/home/anmol/Music/01. Teri Jhuki Nazar.mp3': No such file or directory
+Feb 27 15:34 : player: played "01. Teri Jhuki Nazar.mp3"
+Feb 27 15:34 : exception: Failed to decode /home/anmol/Music/01. Teri Jhuki Nazar.mp3; Failed to open '/home/anmol/Music/01. Teri Jhuki Nazar.mp3': No such file or directory
+Feb 27 15:34 : player: played "01. Teri Jhuki Nazar.mp3"
+Feb 27 15:34 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Feb 27 15:37 : exception: Failed to decode /home/anmol/Music/01. Teri Jhuki Nazar.mp3; Failed to open '/home/anmol/Music/01. Teri Jhuki Nazar.mp3': No such file or directory
+Feb 27 15:37 : player: played "01. Teri Jhuki Nazar.mp3"
+Feb 27 15:37 : exception: Failed to decode /home/anmol/Music/01. Teri Jhuki Nazar.mp3; Failed to open '/home/anmol/Music/01. Teri Jhuki Nazar.mp3': No such file or directory
+Feb 27 15:37 : exception: Failed to decode /home/anmol/Music/01. Teri Jhuki Nazar.mp3; Failed to open '/home/anmol/Music/01. Teri Jhuki Nazar.mp3': No such file or directory
+Feb 27 15:37 : player: played "01. Teri Jhuki Nazar.mp3"
+Feb 27 15:37 : exception: Failed to decode /home/anmol/Music/01. Teri Jhuki Nazar.mp3; Failed to open '/home/anmol/Music/01. Teri Jhuki Nazar.mp3': No such file or directory
+Feb 27 15:37 : player: played "01. Teri Jhuki Nazar.mp3"
+Feb 27 15:37 : exception: Failed to decode /home/anmol/Music/01. Teri Jhuki Nazar.mp3; Failed to open '/home/anmol/Music/01. Teri Jhuki Nazar.mp3': No such file or directory
+Feb 27 15:37 : player: played "01. Teri Jhuki Nazar.mp3"
+Feb 27 15:37 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Feb 27 15:45 : update: removing Maula Mere Maula (Anwar).mp3
+Feb 27 15:45 : update: removing Rait Zara Si - Atrangi Re.mp3
+Feb 27 15:45 : update: removing Woh Lamhe Woh Baatein - Atif Aslam - 320Kbps.mp3
+Feb 27 15:45 : update: removing 01 Tere Naina Mere Naino Se (Shaan) 320Kbps.mp3
+Feb 27 15:45 : update: removing Tumhein Mohabbat - Atrangi Re.mp3
+Feb 27 15:45 : update: removing Abhi Kuch Dino Se (DTBHJ) - Mohit Chauhan - 320Kbps.mp3
+Feb 27 15:45 : update: removing Hale Dil - Muder 2 320Kbps.mp3
+Feb 27 15:45 : update: removing Dil Ibaadat - Tum Mile 320Kbps.mp3
+Feb 27 15:45 : update: removing Tu Hi Haqeeqat - Tum Mile 320Kbps.mp3
+Feb 27 15:45 : update: removing Deewana Kar Raha Hai - Raaz 3 320Kbps.mp3
+Feb 27 15:45 : update: removing Abhi Kuch Dino Se - Dil To Bacha Hai Ji 320Kbps.mp3
+Feb 27 15:45 : update: removing Mann Mera - Gajendra Verma 320Kbps.mp3
+Feb 27 15:45 : update: removing Tum Mile - Emraan Hashmi 320Kbps.mp3
+Feb 27 15:45 : update: removing I Am In Love - Once in Mumbai 320Kbps.mp3
+Feb 27 15:45 : update: removing Beete Lamhein - The Train 320Kbps.mp3
+Feb 27 15:45 : update: removing Ajab Si (Om Shanti Om) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: removing Dil Kyun Yeh Mera (Kites) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: removing Saanson Ke (Raees) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: removing 01. Zara Sa.mp3
+Feb 27 15:45 : update: removing Guzarish (Ghajini) [PagalWorld.com].mp3
+Feb 27 15:45 : update: removing Kya Mujhe Pyar Hai (Woh Lamhe) - K.K - 320Kbps (1).mp3
+Feb 27 15:45 : update: removing Mat Aazma Re (Murder ) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: removing Abhi Abhi (Jism ) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: removing Alvida (Life...Metro) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: removing Tum Ho Mera Pyar (Haunted) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: removing I Am In Love (OUATIM) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: removing Ayaashi (Badmaash Company) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: removing Teri Tamanna (The Train) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: removing Zindagi Do Pal Ki (Kites) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: removing Labon Ko (Bhool Bhulaiyaa) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: removing Tu Hi Meri Shab Hai (Gangster) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: removing Soniye (Heartless) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: removing O Meri Jaan (Life in a Metro) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: removing Kaise Bataaoon (G) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: removing Tujhe Sochta Hoon (Jannat ) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: removing Zindagi Do Pal Ki (Kites).mp3
+Feb 27 15:45 : update: removing 22   Tum Ho (Rockstar).mp3
+Feb 27 15:45 : update: removing 01. In Dino.mp3
+Feb 27 15:45 : update: removing 03. Aye Khuda.mp3
+Feb 27 15:45 : update: removing 01. Teri Jhuki Nazar.mp3
+Feb 27 15:45 : update: removing 06 - Te Amo (PagalWorld.com).mp3
+Feb 27 15:45 : update: removing Such Keh Raha Hai (RHTDM) -320Kbps [PagalWorld.com].mp3
+Feb 27 15:45 : update: removing 01. Bheegi Si Bhaagi Si.mp3
+Feb 27 15:45 : update: removing Tere Bina - Shorgul (Arijit Singh) 320Kbps.mp3
+Feb 27 15:45 : update: removing Saiyyan_7.mp3
+Feb 27 15:45 : update: removing 12 Tose Naina - Mickey Virus (Arijit Singh).mp3
+Feb 27 15:45 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Feb 27 15:45 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Feb 27 15:45 : update: added /01. Bheegi Si Bhaagi Si.mp3
+Feb 27 15:45 : update: added /01. In Dino.mp3
+Feb 27 15:45 : update: added /01. Teri Jhuki Nazar.mp3
+Feb 27 15:45 : update: added /01. Zara Sa.mp3
+Feb 27 15:45 : update: added /01 Tere Naina Mere Naino Se (Shaan) 320Kbps.mp3
+Feb 27 15:45 : update: added /03. Aye Khuda.mp3
+Feb 27 15:45 : update: added /06 - Te Amo (PagalWorld.com).mp3
+Feb 27 15:45 : update: added /12 Tose Naina - Mickey Virus (Arijit Singh).mp3
+Feb 27 15:45 : update: added /22   Tum Ho (Rockstar).mp3
+Feb 27 15:45 : update: added /Abhi Abhi (Jism ) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: added /Abhi Kuch Dino Se - Dil To Bacha Hai Ji 320Kbps.mp3
+Feb 27 15:45 : update: added /Abhi Kuch Dino Se (DTBHJ) - Mohit Chauhan - 320Kbps.mp3
+Feb 27 15:45 : update: added /Ajab Si (Om Shanti Om) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: added /Alvida (Life...Metro) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: added /Ayaashi (Badmaash Company) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: added /Beete Lamhein - The Train 320Kbps.mp3
+Feb 27 15:45 : update: added /Deewana Kar Raha Hai - Raaz 3 320Kbps.mp3
+Feb 27 15:45 : update: added /Dil Ibaadat - Tum Mile 320Kbps.mp3
+Feb 27 15:45 : update: added /Dil Kyun Yeh Mera (Kites) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: added /Guzarish (Ghajini) [PagalWorld.com].mp3
+Feb 27 15:45 : update: added /Hale Dil - Muder 2 320Kbps.mp3
+Feb 27 15:45 : update: added /I Am In Love - Once in Mumbai 320Kbps.mp3
+Feb 27 15:45 : update: added /I Am In Love (OUATIM) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: added /Kaise Bataaoon (G) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: added /Kya Mujhe Pyar Hai (Woh Lamhe) - K.K - 320Kbps (1).mp3
+Feb 27 15:45 : update: added /Labon Ko (Bhool Bhulaiyaa) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: added /Mann Mera - Gajendra Verma 320Kbps.mp3
+Feb 27 15:45 : update: added /Mat Aazma Re (Murder ) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: added /Maula Mere Maula (Anwar).mp3
+Feb 27 15:45 : update: added /O Meri Jaan (Life in a Metro) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: added /Rait Zara Si - Atrangi Re.mp3
+Feb 27 15:45 : update: added /Saanson Ke (Raees) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: added /Saiyyan_7.mp3
+Feb 27 15:45 : update: added /Soniye (Heartless) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: added /Such Keh Raha Hai (RHTDM) -320Kbps [PagalWorld.com].mp3
+Feb 27 15:45 : update: added /Tere Bina - Shorgul (Arijit Singh) 320Kbps.mp3
+Feb 27 15:45 : update: added /Teri Tamanna (The Train) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: added /Tu Hi Haqeeqat - Tum Mile 320Kbps.mp3
+Feb 27 15:45 : update: added /Tu Hi Meri Shab Hai (Gangster) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: added /Tujhe Sochta Hoon (Jannat ) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: added /Tumhein Mohabbat - Atrangi Re.mp3
+Feb 27 15:45 : update: added /Tum Ho Mera Pyar (Haunted) - K.K - 320Kbps.mp3
+Feb 27 15:45 : update: added /Tum Mile - Emraan Hashmi 320Kbps.mp3
+Feb 27 15:45 : update: added /Woh Lamhe Woh Baatein - Atif Aslam - 320Kbps.mp3
+Feb 27 15:45 : update: added /Zindagi Do Pal Ki (Kites).mp3
+Feb 27 15:45 : update: added /Zindagi Do Pal Ki (Kites) - K.K - 320Kbps.mp3
+Feb 27 16:00 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Feb 27 16:00 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Feb 27 16:00 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Feb 27 16:00 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Feb 27 16:01 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Feb 27 16:01 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Feb 27 16:12 : player: played "Maula Mere Maula (Anwar).mp3"
+Feb 27 17:11 : player: played "Maula Mere Maula (Anwar).mp3"
+Feb 27 18:06 : player: played "Maula Mere Maula (Anwar).mp3"
+Feb 27 22:21 : player: played "Maula Mere Maula (Anwar).mp3"
+Feb 28 08:25 : player: played "Maula Mere Maula (Anwar).mp3"
+Feb 28 08:30 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Feb 28 08:37 : player: played "Maula Mere Maula (Anwar).mp3"
+Feb 28 08:50 : player: played "Maula Mere Maula (Anwar).mp3"
+Feb 28 14:30 : player: played "Maula Mere Maula (Anwar).mp3"
+Feb 28 15:09 : player: played "Maula Mere Maula (Anwar).mp3"
+Feb 28 21:27 : player: played "Maula Mere Maula (Anwar).mp3"
+Mar 01 08:33 : player: played "Maula Mere Maula (Anwar).mp3"
+Mar 01 11:38 : player: played "Maula Mere Maula (Anwar).mp3"
+Mar 01 14:51 : player: played "Kya Mujhe Pyar Hai (Woh Lamhe) - K.K - 320Kbps (1).mp3"
+Mar 01 16:45 : player: played "Kya Mujhe Pyar Hai (Woh Lamhe) - K.K - 320Kbps (1).mp3"
+Mar 01 17:39 : player: played "Kya Mujhe Pyar Hai (Woh Lamhe) - K.K - 320Kbps (1).mp3"
+Mar 01 18:14 : player: played "Kya Mujhe Pyar Hai (Woh Lamhe) - K.K - 320Kbps (1).mp3"
+Mar 01 18:45 : player: played "Kya Mujhe Pyar Hai (Woh Lamhe) - K.K - 320Kbps (1).mp3"
+Mar 01 21:29 : player: played "Kya Mujhe Pyar Hai (Woh Lamhe) - K.K - 320Kbps (1).mp3"
+Mar 01 21:53 : player: played "Kya Mujhe Pyar Hai (Woh Lamhe) - K.K - 320Kbps (1).mp3"
+Mar 01 22:17 : player: played "Kya Mujhe Pyar Hai (Woh Lamhe) - K.K - 320Kbps (1).mp3"
+Mar 02 13:16 : player: played "Kya Mujhe Pyar Hai (Woh Lamhe) - K.K - 320Kbps (1).mp3"
+Mar 02 13:32 : player: played "Kya Mujhe Pyar Hai (Woh Lamhe) - K.K - 320Kbps (1).mp3"
+Mar 02 14:47 : player: played "Kya Mujhe Pyar Hai (Woh Lamhe) - K.K - 320Kbps (1).mp3"
+Mar 02 14:54 : player: played "Kya Mujhe Pyar Hai (Woh Lamhe) - K.K - 320Kbps (1).mp3"
+Mar 02 15:54 : player: played "Kya Mujhe Pyar Hai (Woh Lamhe) - K.K - 320Kbps (1).mp3"
+Mar 02 19:48 : player: played "01 Tere Naina Mere Naino Se (Shaan) 320Kbps.mp3"
+Mar 03 15:31 : player: played "01 Tere Naina Mere Naino Se (Shaan) 320Kbps.mp3"
+Mar 03 17:14 : update: removing N3WPORT - Power (feat. braev) [NCS Release].mp3
+Mar 03 17:14 : update: removing Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3
+Mar 03 17:14 : update: removing Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3
+Mar 03 17:14 : update: removing Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3
+Mar 03 17:14 : update: removing NEFFEX - Grateful [Copyright Free].mp3
+Mar 03 17:14 : update: added /01. Bheegi Si Bhaagi Si.mp3
+Mar 03 17:14 : update: added /01. In Dino.mp3
+Mar 03 17:14 : update: added /01. Teri Jhuki Nazar.mp3
+Mar 03 17:14 : update: added /01. Zara Sa.mp3
+Mar 03 17:14 : update: added /01 Tere Naina Mere Naino Se (Shaan) 320Kbps.mp3
+Mar 03 17:14 : update: added /03. Aye Khuda.mp3
+Mar 03 17:14 : update: added /06 - Te Amo (PagalWorld.com).mp3
+Mar 03 17:14 : update: added /12 Tose Naina - Mickey Virus (Arijit Singh).mp3
+Mar 03 17:14 : update: added /22   Tum Ho (Rockstar).mp3
+Mar 03 17:14 : update: added /Abhi Abhi (Jism ) - K.K - 320Kbps.mp3
+Mar 03 17:14 : update: added /Abhi Kuch Dino Se - Dil To Bacha Hai Ji 320Kbps.mp3
+Mar 03 17:14 : update: added /Abhi Kuch Dino Se (DTBHJ) - Mohit Chauhan - 320Kbps.mp3
+Mar 03 17:14 : update: added /Ajab Si (Om Shanti Om) - K.K - 320Kbps.mp3
+Mar 03 17:14 : update: added /Alvida (Life...Metro) - K.K - 320Kbps.mp3
+Mar 03 17:14 : update: added /Ayaashi (Badmaash Company) - K.K - 320Kbps.mp3
+Mar 03 17:14 : update: added /Beete Lamhein - The Train 320Kbps.mp3
+Mar 03 17:14 : update: added /Deewana Kar Raha Hai - Raaz 3 320Kbps.mp3
+Mar 03 17:14 : update: added /Dil Ibaadat - Tum Mile 320Kbps.mp3
+Mar 03 17:14 : update: added /Dil Kyun Yeh Mera (Kites) - K.K - 320Kbps.mp3
+Mar 03 17:14 : update: added /Guzarish (Ghajini) [PagalWorld.com].mp3
+Mar 03 17:14 : update: added /Hale Dil - Muder 2 320Kbps.mp3
+Mar 03 17:14 : update: added /I Am In Love - Once in Mumbai 320Kbps.mp3
+Mar 03 17:14 : update: added /I Am In Love (OUATIM) - K.K - 320Kbps.mp3
+Mar 03 17:14 : update: added /Kaise Bataaoon (G) - K.K - 320Kbps.mp3
+Mar 03 17:14 : update: added /Kya Mujhe Pyar Hai (Woh Lamhe) - K.K - 320Kbps (1).mp3
+Mar 03 17:14 : update: added /Labon Ko (Bhool Bhulaiyaa) - K.K - 320Kbps.mp3
+Mar 03 17:14 : update: added /Mann Mera - Gajendra Verma 320Kbps.mp3
+Mar 03 17:14 : update: added /Mat Aazma Re (Murder ) - K.K - 320Kbps.mp3
+Mar 03 17:14 : update: added /Maula Mere Maula (Anwar).mp3
+Mar 03 17:14 : update: added /O Meri Jaan (Life in a Metro) - K.K - 320Kbps.mp3
+Mar 03 17:14 : update: added /Rait Zara Si - Atrangi Re.mp3
+Mar 03 17:14 : update: added /Saanson Ke (Raees) - K.K - 320Kbps.mp3
+Mar 03 17:14 : update: added /Saiyyan_7.mp3
+Mar 03 17:14 : update: added /Soniye (Heartless) - K.K - 320Kbps.mp3
+Mar 03 17:14 : update: added /Such Keh Raha Hai (RHTDM) -320Kbps [PagalWorld.com].mp3
+Mar 03 17:14 : update: added /Tere Bina - Shorgul (Arijit Singh) 320Kbps.mp3
+Mar 03 17:14 : update: added /Teri Tamanna (The Train) - K.K - 320Kbps.mp3
+Mar 03 17:14 : update: added /Tu Hi Haqeeqat - Tum Mile 320Kbps.mp3
+Mar 03 17:14 : update: added /Tu Hi Meri Shab Hai (Gangster) - K.K - 320Kbps.mp3
+Mar 03 17:14 : update: added /Tujhe Sochta Hoon (Jannat ) - K.K - 320Kbps.mp3
+Mar 03 17:14 : update: added /Tumhein Mohabbat - Atrangi Re.mp3
+Mar 03 17:14 : update: added /Tum Ho Mera Pyar (Haunted) - K.K - 320Kbps.mp3
+Mar 03 17:14 : update: added /Tum Mile - Emraan Hashmi 320Kbps.mp3
+Mar 03 17:14 : update: added /Woh Lamhe Woh Baatein - Atif Aslam - 320Kbps.mp3
+Mar 03 17:14 : update: added /Zindagi Do Pal Ki (Kites).mp3
+Mar 03 17:14 : update: added /Zindagi Do Pal Ki (Kites) - K.K - 320Kbps.mp3
+Mar 03 20:17 : player: played "Tere Bina - Shorgul (Arijit Singh) 320Kbps.mp3"
+Mar 04 14:22 : player: played "Tere Bina - Shorgul (Arijit Singh) 320Kbps.mp3"
+Mar 04 15:17 : exception: Playlist is too large
+Mar 04 15:17 : exception: Playlist is too large
+Mar 04 15:17 : exception: Playlist is too large
+Mar 04 15:18 : exception: Playlist is too large
+Mar 04 15:23 : exception: Playlist is too large
+Mar 04 15:23 : exception: Playlist is too large
+Mar 04 15:24 : exception: Playlist is too large
+Mar 04 15:29 : player: played "Tere Bina - Shorgul (Arijit Singh) 320Kbps.mp3"
+Mar 04 15:32 : update: removing Maula Mere Maula (Anwar).mp3
+Mar 04 15:32 : update: removing Such Keh Raha Hai (RHTDM) -320Kbps [PagalWorld.com].mp3
+Mar 04 15:32 : update: removing 01. Bheegi Si Bhaagi Si.mp3
+Mar 04 15:32 : update: removing 06 - Te Amo (PagalWorld.com).mp3
+Mar 04 15:32 : update: removing 01. Teri Jhuki Nazar.mp3
+Mar 04 15:32 : update: removing 03. Aye Khuda.mp3
+Mar 04 15:32 : update: removing 01. In Dino.mp3
+Mar 04 15:32 : update: removing 22   Tum Ho (Rockstar).mp3
+Mar 04 15:32 : update: removing Zindagi Do Pal Ki (Kites).mp3
+Mar 04 15:32 : update: removing Kaise Bataaoon (G) - K.K - 320Kbps.mp3
+Mar 04 15:32 : update: removing Tujhe Sochta Hoon (Jannat ) - K.K - 320Kbps.mp3
+Mar 04 15:32 : update: removing Tu Hi Meri Shab Hai (Gangster) - K.K - 320Kbps.mp3
+Mar 04 15:32 : update: removing Soniye (Heartless) - K.K - 320Kbps.mp3
+Mar 04 15:32 : update: removing O Meri Jaan (Life in a Metro) - K.K - 320Kbps.mp3
+Mar 04 15:32 : update: removing Zindagi Do Pal Ki (Kites) - K.K - 320Kbps.mp3
+Mar 04 15:32 : update: removing Labon Ko (Bhool Bhulaiyaa) - K.K - 320Kbps.mp3
+Mar 04 15:32 : update: removing Ayaashi (Badmaash Company) - K.K - 320Kbps.mp3
+Mar 04 15:32 : update: removing Teri Tamanna (The Train) - K.K - 320Kbps.mp3
+Mar 04 15:32 : update: removing Alvida (Life...Metro) - K.K - 320Kbps.mp3
+Mar 04 15:32 : update: removing Tum Ho Mera Pyar (Haunted) - K.K - 320Kbps.mp3
+Mar 04 15:32 : update: removing I Am In Love (OUATIM) - K.K - 320Kbps.mp3
+Mar 04 15:32 : update: removing Kya Mujhe Pyar Hai (Woh Lamhe) - K.K - 320Kbps (1).mp3
+Mar 04 15:32 : update: removing Mat Aazma Re (Murder ) - K.K - 320Kbps.mp3
+Mar 04 15:32 : update: removing Abhi Abhi (Jism ) - K.K - 320Kbps.mp3
+Mar 04 15:32 : update: removing Ajab Si (Om Shanti Om) - K.K - 320Kbps.mp3
+Mar 04 15:32 : update: removing Dil Kyun Yeh Mera (Kites) - K.K - 320Kbps.mp3
+Mar 04 15:32 : update: removing Saanson Ke (Raees) - K.K - 320Kbps.mp3
+Mar 04 15:32 : update: removing 01. Zara Sa.mp3
+Mar 04 15:32 : update: removing Guzarish (Ghajini) [PagalWorld.com].mp3
+Mar 04 15:32 : update: removing Mann Mera - Gajendra Verma 320Kbps.mp3
+Mar 04 15:32 : update: removing Tum Mile - Emraan Hashmi 320Kbps.mp3
+Mar 04 15:32 : update: removing I Am In Love - Once in Mumbai 320Kbps.mp3
+Mar 04 15:32 : update: removing Beete Lamhein - The Train 320Kbps.mp3
+Mar 04 15:32 : update: removing Abhi Kuch Dino Se - Dil To Bacha Hai Ji 320Kbps.mp3
+Mar 04 15:32 : update: removing Deewana Kar Raha Hai - Raaz 3 320Kbps.mp3
+Mar 04 15:32 : update: removing Tu Hi Haqeeqat - Tum Mile 320Kbps.mp3
+Mar 04 15:32 : update: removing Dil Ibaadat - Tum Mile 320Kbps.mp3
+Mar 04 15:32 : update: removing Hale Dil - Muder 2 320Kbps.mp3
+Mar 04 15:32 : update: removing Abhi Kuch Dino Se (DTBHJ) - Mohit Chauhan - 320Kbps.mp3
+Mar 04 15:32 : update: removing 01 Tere Naina Mere Naino Se (Shaan) 320Kbps.mp3
+Mar 04 15:32 : update: removing Tumhein Mohabbat - Atrangi Re.mp3
+Mar 04 15:32 : update: removing Rait Zara Si - Atrangi Re.mp3
+Mar 04 15:32 : update: removing Woh Lamhe Woh Baatein - Atif Aslam - 320Kbps.mp3
+Mar 04 15:32 : update: removing 12 Tose Naina - Mickey Virus (Arijit Singh).mp3
+Mar 04 15:32 : update: removing Tere Bina - Shorgul (Arijit Singh) 320Kbps.mp3
+Mar 04 15:32 : update: removing Saiyyan_7.mp3
+Mar 04 15:33 : update: added /01. Bheegi Si Bhaagi Si.mp3
+Mar 04 15:33 : update: added /01. In Dino.mp3
+Mar 04 15:33 : update: added /01. Teri Jhuki Nazar.mp3
+Mar 04 15:33 : update: added /01. Zara Sa.mp3
+Mar 04 15:33 : update: added /01 Tere Naina Mere Naino Se (Shaan) 320Kbps.mp3
+Mar 04 15:33 : update: added /03. Aye Khuda.mp3
+Mar 04 15:33 : update: added /06 - Te Amo (PagalWorld.com).mp3
+Mar 04 15:33 : update: added /12 Tose Naina - Mickey Virus (Arijit Singh).mp3
+Mar 04 15:33 : update: added /22   Tum Ho (Rockstar).mp3
+Mar 04 15:33 : update: added /Abhi Abhi (Jism ) - K.K - 320Kbps.mp3
+Mar 04 15:33 : update: added /Abhi Kuch Dino Se - Dil To Bacha Hai Ji 320Kbps.mp3
+Mar 04 15:33 : update: added /Abhi Kuch Dino Se (DTBHJ) - Mohit Chauhan - 320Kbps.mp3
+Mar 04 15:33 : update: added /Ajab Si (Om Shanti Om) - K.K - 320Kbps.mp3
+Mar 04 15:33 : update: added /Alvida (Life...Metro) - K.K - 320Kbps.mp3
+Mar 04 15:33 : update: added /Ayaashi (Badmaash Company) - K.K - 320Kbps.mp3
+Mar 04 15:33 : update: added /Beete Lamhein - The Train 320Kbps.mp3
+Mar 04 15:33 : update: added /Deewana Kar Raha Hai - Raaz 3 320Kbps.mp3
+Mar 04 15:33 : update: added /Dil Ibaadat - Tum Mile 320Kbps.mp3
+Mar 04 15:33 : update: added /Dil Kyun Yeh Mera (Kites) - K.K - 320Kbps.mp3
+Mar 04 15:33 : update: added /Guzarish (Ghajini) [PagalWorld.com].mp3
+Mar 04 15:33 : update: added /Hale Dil - Muder 2 320Kbps.mp3
+Mar 04 15:33 : update: added /I Am In Love - Once in Mumbai 320Kbps.mp3
+Mar 04 15:33 : update: added /I Am In Love (OUATIM) - K.K - 320Kbps.mp3
+Mar 04 15:33 : update: added /Kaise Bataaoon (G) - K.K - 320Kbps.mp3
+Mar 04 15:33 : update: added /Kya Mujhe Pyar Hai (Woh Lamhe) - K.K - 320Kbps (1).mp3
+Mar 04 15:33 : update: added /Labon Ko (Bhool Bhulaiyaa) - K.K - 320Kbps.mp3
+Mar 04 15:33 : update: added /Mann Mera - Gajendra Verma 320Kbps.mp3
+Mar 04 15:33 : update: added /Mat Aazma Re (Murder ) - K.K - 320Kbps.mp3
+Mar 04 15:33 : update: added /Maula Mere Maula (Anwar).mp3
+Mar 04 15:33 : update: added /O Meri Jaan (Life in a Metro) - K.K - 320Kbps.mp3
+Mar 04 15:33 : update: added /Rait Zara Si - Atrangi Re.mp3
+Mar 04 15:33 : update: added /Saanson Ke (Raees) - K.K - 320Kbps.mp3
+Mar 04 15:33 : update: added /Saiyyan_7.mp3
+Mar 04 15:33 : update: added /Soniye (Heartless) - K.K - 320Kbps.mp3
+Mar 04 15:33 : update: added /Such Keh Raha Hai (RHTDM) -320Kbps [PagalWorld.com].mp3
+Mar 04 15:33 : update: added /Tere Bina - Shorgul (Arijit Singh) 320Kbps.mp3
+Mar 04 15:33 : update: added /Teri Tamanna (The Train) - K.K - 320Kbps.mp3
+Mar 04 15:33 : update: added /Tu Hi Haqeeqat - Tum Mile 320Kbps.mp3
+Mar 04 15:33 : update: added /Tu Hi Meri Shab Hai (Gangster) - K.K - 320Kbps.mp3
+Mar 04 15:33 : update: added /Tujhe Sochta Hoon (Jannat ) - K.K - 320Kbps.mp3
+Mar 04 15:33 : update: added /Tumhein Mohabbat - Atrangi Re.mp3
+Mar 04 15:33 : update: added /Tum Ho Mera Pyar (Haunted) - K.K - 320Kbps.mp3
+Mar 04 15:33 : update: added /Tum Mile - Emraan Hashmi 320Kbps.mp3
+Mar 04 15:33 : update: added /Woh Lamhe Woh Baatein - Atif Aslam - 320Kbps.mp3
+Mar 04 15:33 : update: added /Zindagi Do Pal Ki (Kites).mp3
+Mar 04 15:33 : update: added /Zindagi Do Pal Ki (Kites) - K.K - 320Kbps.mp3
+Mar 04 19:57 : player: played "Tumhein Mohabbat - Atrangi Re.mp3"
+Mar 05 13:20 : player: played "Tumhein Mohabbat - Atrangi Re.mp3"
+Mar 05 15:16 : player: played "12 Tose Naina - Mickey Virus (Arijit Singh).mp3"
+Mar 06 13:32 : player: played "12 Tose Naina - Mickey Virus (Arijit Singh).mp3"
+Mar 06 14:12 : player: played "12 Tose Naina - Mickey Virus (Arijit Singh).mp3"
+Mar 06 16:03 : player: played "12 Tose Naina - Mickey Virus (Arijit Singh).mp3"
+Mar 06 19:37 : player: played "12 Tose Naina - Mickey Virus (Arijit Singh).mp3"
+Mar 06 19:44 : player: played "12 Tose Naina - Mickey Virus (Arijit Singh).mp3"
+Mar 06 19:50 : player: played "12 Tose Naina - Mickey Virus (Arijit Singh).mp3"
+Mar 06 20:18 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 07 14:08 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 07 14:26 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 07 14:26 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 07 15:02 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 07 15:30 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 07 17:35 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 07 18:02 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 07 18:35 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 07 18:59 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 07 19:20 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 07 19:30 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 07 19:59 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 07 20:14 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 07 20:14 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 08 14:26 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 08 14:37 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 08 16:53 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 08 17:14 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 08 17:41 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 08 17:41 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 09 22:49 : exception: Failed to decode /home/anmol/Music/Mann Mera - Gajendra Verma 320Kbps.mp3; Failed to open '/home/anmol/Music/Mann Mera - Gajendra Verma 320Kbps.mp3': No such file or directory
+Mar 09 22:49 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 09 22:59 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 09 22:59 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 10 14:31 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 10 14:32 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 10 14:42 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
+Mar 10 17:38 : player: played "Mann Mera - Gajendra Verma 320Kbps.mp3"
